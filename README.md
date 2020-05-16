@@ -2,6 +2,5 @@
 
 2020 05 16
 --------------------
-스택[https://www.acmicpc.net/problem/10828]<br>
-큐[https://www.acmicpc.net/problem/10845]
-
+스택(https://www.acmicpc.net/problem/10828), 큐(https://www.acmicpc.net/problem/10845)
+<br>
