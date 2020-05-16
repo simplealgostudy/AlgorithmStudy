@@ -7,7 +7,7 @@
 <br>
 2020 05 24 14:00
 --------------------
-[스택2](https://www.acmicpc.net/problem/18258)
+[큐2](https://www.acmicpc.net/problem/18258)
 <br>
 <br>
 --------------------
