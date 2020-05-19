@@ -25,8 +25,6 @@
 [프로그래머스](https://programmers.co.kr)<br>
 [SWExport Academy](https://swexpertacademy.com)<br>
 
-
---------------------
 <br>
 2020 05 16 20:00
 --------------------
