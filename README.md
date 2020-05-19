@@ -25,14 +25,6 @@
 [백준](https://swexpertacademy.com)<br>
 [프로그래머스](https://programmers.co.kr)<br>
 [SWExport Academy](https://swexpertacademy.com)<br>
-```
-백준 아이디
-
-김태훈 adxx
-박찬종 lonysg
-정민수 miz2121
-전성만 jsm2548
-```
 <br>
 <br>
 
