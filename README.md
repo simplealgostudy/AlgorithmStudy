@@ -27,6 +27,12 @@
 [SWExport Academy](https://swexpertacademy.com)<br>
 <br>
 <br>
+###백준 아이디
+
+김태훈 adxx
+
+전성만 jsm2548
+
 2020 05 16 20:00
 --------------------
 [스택](https://www.acmicpc.net/problem/10828)<br> 
