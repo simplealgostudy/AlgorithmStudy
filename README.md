@@ -1,7 +1,7 @@
 
 # AlgorithmStudy
-## 계획
----
+계획
+--------------------
 1주차: 설명<br>
 2주차: 스택/큐<br>
 3주차: 해시<br>
@@ -15,16 +15,16 @@
 11주차: 그래프<br>
 12주차: 복습<br>
 13주차: 문자열 알고리즘 심화
----
+
 ```후 사항에 맞게 추가 및 수정```
 <br>
 
-## 알고리즘 문제 선정 사이트
----
+알고리즘 문제 선정 사이트
+--------------------
 [백준](https://swexpertacademy.com)<br>
 [프로그래머스](https://programmers.co.kr)<br>
 [SWExport Academy](https://swexpertacademy.com)<br>
----
+
 
 --------------------
 <br>
