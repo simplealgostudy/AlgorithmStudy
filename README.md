@@ -27,7 +27,11 @@
 [SWExport Academy](https://swexpertacademy.com)<br>
 <br>
 <br>
-
+Slack 연동 계정
+--------------------
+[SimpleAlgoStudy](simplealgostudy.slack.com)
+<br>
+<br>
 2020 05 16 20:00
 --------------------
 [스택](https://www.acmicpc.net/problem/10828)<br> 
@@ -45,3 +49,4 @@
 <br>
 <br>
 --------------------
+w
