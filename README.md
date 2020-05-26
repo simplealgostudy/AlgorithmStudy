@@ -29,7 +29,8 @@
 <br>
 Slack 연동 계정
 --------------------
-[SimpleAlgoStudy](simplealgostudy.slack.com)
+
+[SimpleAlgoStudy](https://simplealgostudy.slack.com)
 <br>
 <br>
 2020 05 16 20:00
