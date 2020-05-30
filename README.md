@@ -44,10 +44,9 @@ Slack 연동 계정
 [큐2](https://www.acmicpc.net/problem/18258)
 <br>
 <br>
-2020 05 ?? ??:??
+2020 06 04 14:00
 --------------------
 [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=cpp)
 <br>
 <br>
 --------------------
-w
