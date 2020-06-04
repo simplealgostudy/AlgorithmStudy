@@ -49,4 +49,9 @@ Slack 연동 계정
 [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=cpp)
 <br>
 <br>
+2020 06 11 14:00
+--------------------
+[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
+<br>
+<br>
 --------------------
