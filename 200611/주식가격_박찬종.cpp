@@ -16,12 +16,7 @@ vector<int> solution(vector<int> prices) {
                 answer.push_back(prices.size() - i-1);
                 break;
             }
-
-            else if (prices[i]<=prices[j])
-                continue;
-            
-        }
-        
+        }        
     }
     answer.push_back(0);
     return answer;
