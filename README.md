@@ -54,4 +54,8 @@ Slack 연동 계정
 [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
 <br>
 <br>
+2020 06 18
 --------------------
+[트리 순회](https://www.acmicpc.net/problem/1991)
+[Binary Search Tree](https://www.acmicpc.net/problem/5639)
+[길찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892?language=cpp)
