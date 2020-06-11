@@ -56,6 +56,9 @@ Slack 연동 계정
 <br>
 2020 06 18
 --------------------
-[트리 순회](https://www.acmicpc.net/problem/1991)
-[Binary Search Tree](https://www.acmicpc.net/problem/5639)
+[트리 순회](https://www.acmicpc.net/problem/1991)<br>
+[Binary Search Tree](https://www.acmicpc.net/problem/5639)<br>
 [길찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892?language=cpp)
+<br>
+<br>
+--------------------
