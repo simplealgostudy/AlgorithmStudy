@@ -1,4 +1,4 @@
-
+b
 # AlgorithmStudy
 계획
 --------------------
@@ -54,7 +54,12 @@ Slack 연동 계정
 [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
 <br>
 <br>
-2020 06 18
+2020 06 30
+--------------------
+[트리](https://www.acmicpc.net/problem/1068)
+<br>
+<br>
+2020 -- 미정
 --------------------
 [트리 순회](https://www.acmicpc.net/problem/1991)<br>
 [Binary Search Tree](https://www.acmicpc.net/problem/5639)<br>
