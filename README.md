@@ -58,12 +58,12 @@ Slack 연동 계정
 [트리](https://www.acmicpc.net/problem/1068)
 <br>
 <br>
-2020 07 05
+2020 07 12 16:00
 --------------------
 [길찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892?language=cpp)
 <br>
 <br>
-2020 07 
+2020 07 16 16:00
 --------------------
 [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842?language=java)
 --------------------
