@@ -72,6 +72,5 @@ Slack 연동 계정
 --------------------
 [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=cpp)
 <br>
-[]()
 <br>
-<br>
+--------------------
