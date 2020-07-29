@@ -68,9 +68,10 @@ Slack 연동 계정
 [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842?language=java)
 <br>
 <br>
-2020 07 24 14:00
+2020 07 31 16:00
 --------------------
-[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=cpp)
+[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=cpp) <br>
+[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165?language=cpp)
 <br>
 <br>
 --------------------
