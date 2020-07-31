@@ -72,7 +72,7 @@ Slack 연동 계정
 --------------------
 [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=cpp) <br>
 [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165?language=cpp) <br>
-[Permutation Cycles] (https://www.acmicpc.net/problem/10451)
+[Permutation Cycles](https://www.acmicpc.net/problem/10451)
 <br>
 <br>
 --------------------
