@@ -79,4 +79,9 @@ Slack 연동 계정
 [Permutation Cycles](https://www.acmicpc.net/problem/10451)
 <br>
 <br>
+2020 08 00 00:00
+--------------------
+[반복수열](https://www.acmicpc.net/problem/2331)
+<br>
+<br>
 --------------------
