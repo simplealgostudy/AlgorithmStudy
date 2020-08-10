@@ -13,7 +13,7 @@ bool findRecursion(int compare, vector<int> sequenceVector)
 {
     int size = sequenceVector.size();
 
-    for (int i = 0; i<size; i++)
+    for (int i = 0; i < size; i++)
     {
         if (compare == sequenceVector[i])
         {
@@ -27,8 +27,8 @@ bool findRecursion(int compare, vector<int> sequenceVector)
 void makeNextSequence(int currentSequence, int powerNumber)
 {
     int nextSequence = 0;
-        if (findRecursion(currentSequence, sequenceVector))
-            return;
+    if (findRecursion(currentSequence, sequenceVector))
+        return;
 
     sequenceVector.push_back(currentSequence);
 
