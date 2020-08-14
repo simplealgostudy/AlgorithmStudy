@@ -25,5 +25,7 @@ int solution(int num, int sqr)
 }
 
 int main(void) {
-    cout<<solution(57, 2);
+    int n, p;
+    cin >> n >> p;
+    cout<<solution(n, p);
 }
