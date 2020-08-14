@@ -13,8 +13,6 @@ int solution(int num, int sqr)
         int sum = 0;
         while (num>0) {
             sum += pow(num % 10, sqr);
-            if (num < 10)
-                break;
             num /= 10;
         }
  
