@@ -89,7 +89,7 @@ Slack 연동 계정
 [영역 구하기](https://www.acmicpc.net/problem/2583)
 <br>
 <br>
-2020 08 00 00:00
+2020 08 28 13:00
 --------------------
 [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)
 <br>
