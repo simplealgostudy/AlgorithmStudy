@@ -119,4 +119,9 @@ Slack 연동 계정
 [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
 <br>
 <br>
+2020 09 26 15:00 트리
+--------------------
+[OBILAZAK](https://www.acmicpc.net/problem/9934)
+<br>
+<br>
 --------------------
