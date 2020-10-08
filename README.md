@@ -124,7 +124,7 @@ Slack 연동 계정
 [OBILAZAK](https://www.acmicpc.net/problem/9934)
 <br>
 <br>
-2020 10 00 00:00 완전검색
+2020 10 10 16:00 완전검색
 --------------------
 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=cpp)
 <br>
