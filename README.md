@@ -129,7 +129,7 @@ Slack 연동 계정
 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=cpp)
 <br>
 <br>
-2020 10 31 00:00 동적계획
+2020 10 31 17:00 동적계획
 --------------------
 [괄호](https://www.acmicpc.net/problem/10422)
 --------------------
