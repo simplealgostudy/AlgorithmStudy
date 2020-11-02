@@ -132,6 +132,11 @@ Slack 연동 계정
 2020 10 31 17:00 동적계획
 --------------------
 [괄호](https://www.acmicpc.net/problem/10422)
+<br>
+<br>
+2020 11 07 17:00 DFS
+--------------------
+[Cow Art](https://www.acmicpc.net/problem/10026)
 --------------------
 <br>
 <br>
