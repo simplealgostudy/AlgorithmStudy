@@ -149,4 +149,9 @@ Slack 연동 계정
 [How Many Islands?](https://www.acmicpc.net/problem/4963)
 <br>
 <br>
+2020 11 28 16:30 문자열 알고리즘
+--------------------
+[로마 숫자](https://www.acmicpc.net/problem/2608)
+<br>
+<br>
 --------------------
