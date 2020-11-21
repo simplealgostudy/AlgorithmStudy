@@ -5,7 +5,7 @@ using namespace std;
 vector<string> romNum = { "I", "V", "X", "L", "C", "D", "M" };
 vector<string> romNum2 = { "IV", "IX", "XL", "XC", "CD", "CM" };
 
-vector<int>araNum = { 1, 5, 10, 50, 100, 500, 1000 };
+vector<int> araNum = { 1, 5, 10, 50, 100, 500, 1000 };
 vector<int> araNum2 = { 4, 9, 40, 90, 400, 900 };
 
 string romAnswer = "";
