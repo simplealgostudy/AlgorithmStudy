@@ -75,19 +75,12 @@ int main()
 
 	cout << araAnswer << endl;
 
-	araAnswer = araDiv(araAnswer, 1000, "M");
-	araAnswer = araDiv(araAnswer, 900, "CM");
-	araAnswer = araDiv(araAnswer, 500, "D");
-	araAnswer = araDiv(araAnswer, 400, "CD");
-	araAnswer = araDiv(araAnswer, 100, "C");
-	araAnswer = araDiv(araAnswer, 90, "XC");
-	araAnswer = araDiv(araAnswer, 50, "L");
-	araAnswer = araDiv(araAnswer, 40, "XL");
-	araAnswer = araDiv(araAnswer, 10, "X");
-	araAnswer = araDiv(araAnswer, 9, "IX");
-	araAnswer = araDiv(araAnswer, 5, "V");
-	araAnswer = araDiv(araAnswer, 4, "IV");
-	araAnswer = araDiv(araAnswer, 1, "I");
+	for (int i = romNum.size() - 1; i >= 0; i--) {
+		if (i < romNum.size() - 1) {
+			araAnswer = araDiv(araAnswer, araNum2[i], romNum2[i]);
+		}
+		araAnswer = araDiv(araAnswer, araNum[i] ,romNum[i]);			
+	}
 
 	cout << romAnswer;
 }
