@@ -13,8 +13,7 @@
 10주차: BFS<br>
 11주차: 그래프<br>
 12주차: 복습<br>
-13주차: 문자열 알고리즘 심화
-<br>
+13주차: 문자열 알고리즘 심화<br>
 14주차: 스택/큐<br>
 15주차: 해시<br>
 16주차: 트리<br>
@@ -163,10 +162,16 @@ Slack 연동 계정
 [로마 숫자](https://www.acmicpc.net/problem/2608)
 <br>
 <br>
-2021 01 09 17:00 스택
+2021 01 09 16:00 스택
 --------------------
 [괄호의 값](https://www.acmicpc.net/problem/2504)<br>
 [오등큰수](https://www.acmicpc.net/problem/17299)
+<br>
+<br>
+2021 01 16 16:00 큐
+--------------------
+[Printer Queue](https://www.acmicpc.net/problem/1966)<br>
+[전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](https://www.acmicpc.net/problem/14698)
 <br>
 <br>
 --------------------
