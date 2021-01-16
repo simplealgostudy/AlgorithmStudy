@@ -174,4 +174,10 @@ Slack 연동 계정
 [전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](https://www.acmicpc.net/problem/14698)
 <br>
 <br>
+2021 01 23 16:00 동적계획
+--------------------
+[연속부분최대곱](https://www.acmicpc.net/problem/2670)<br>
+[내려가기](https://www.acmicpc.net/problem/2096)
+<br>
+<br>
 --------------------
