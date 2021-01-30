@@ -186,4 +186,10 @@ Slack 연동 계정
 [Caesar cipher](https://www.acmicpc.net/problem/1893)
 <br>
 <br>
+2021 02 06 16:00 DFS
+--------------------
+[촌수계산](https://www.acmicpc.net/problem/2644)<br>
+[치즈](https://www.acmicpc.net/problem/2638)
+<br>
+<br>
 --------------------
