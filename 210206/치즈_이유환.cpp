@@ -7,33 +7,20 @@ int n = 0, m = 0;
 int move_w[4] = { 0, 0, -1, 1};
 int move_h[4] = { -1, 1, 0, 0};
 
-void airDfs(int h, int w) {
+void airDfs(int h, int w, bool choice) {
 	if (g[h][w] == 0) {
-		g[h][w] = 2;
+		if (choice == 0) {
+			g[h][w] = 2;
+		}
+		else g[h][w] = 4;
 				
 		for (int i = 0; i < 4; i++) {
 			int tmp_w = w + move_w[i];
 			int tmp_h = h + move_h[i];
 			if (tmp_w >= 0 && tmp_h >= 0 && tmp_w < m && tmp_h < n) {
 				if (g[tmp_h][tmp_w] == 0) {
-					airDfs(tmp_h, tmp_w);
+					airDfs(tmp_h, tmp_w, choice);
 				}			
-			}
-		}
-	}
-}
-
-void air2Dfs(int h, int w) {
-	if (g[h][w] == 0) {
-		g[h][w] = 4;
-
-		for (int i = 0; i < 4; i++) {
-			int tmp_w = w + move_w[i];
-			int tmp_h = h + move_h[i];
-			if (tmp_w >= 0 && tmp_h >= 0 && tmp_w < m && tmp_h < n) {
-				if (g[tmp_h][tmp_w] == 0) {
-					air2Dfs(tmp_h, tmp_w);
-				}
 			}
 		}
 	}
@@ -56,7 +43,7 @@ void choiceDfs(int h, int w) {
 				int tmp_h = h + move_h[i];
 				if (tmp_w >= 0 && tmp_h >= 0 && tmp_w < m && tmp_h < n) {
 					if (g[tmp_h][tmp_w] == 0) {
-						air2Dfs(tmp_h, tmp_w);
+						airDfs(tmp_h, tmp_w, 1);
 					}
 				}
 			}
@@ -90,7 +77,7 @@ int main()
 		g.push_back(tmp);
 	}
 
-	airDfs(0, 0);
+	airDfs(0, 0, 0);
 	int swCount = 0;
 	int answer = 0;
 
