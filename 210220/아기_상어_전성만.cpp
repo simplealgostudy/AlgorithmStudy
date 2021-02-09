@@ -9,8 +9,8 @@ bool sortby(const pair<int,int> &a, const pair<int,int> &b) {
 } 
 const int POS[4][2] = {{-1,0},{0,-1},{1,0},{0,1}};
 int main() {
-	// freopen("input.txt", "r", stdin);
-	ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
+    // freopen("input.txt", "r", stdin);
+    ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
     int n; cin >> n;
     int d[n][n];
     int M = 0;
@@ -73,5 +73,5 @@ int main() {
         }
     }
     cout << res;
-	return 0;
+    return 0;
 }
