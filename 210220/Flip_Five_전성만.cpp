@@ -1,9 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
 struct th {
-  bitset<9> b;
-  int cnt;
-  vector<bool> chk;
+	bitset<9> b;
+  	int cnt;
+  	vector<bool> chk;
 };
 int main() {
 	// freopen("input.txt", "r", stdin);
@@ -15,7 +15,7 @@ int main() {
 			char chr; cin >> chr;
 			if (chr == '*') b[i] = 1;
 		}
-    vector<bool> chk(9, false);
+    		vector<bool> chk(9, false);
 		queue<th> q;
 		q.push({b, 0, chk});
 		while(!q.empty()) {
@@ -37,9 +37,9 @@ int main() {
 					if (i + 1 < 9) next[i+1].flip();
 				}
 				else if (i % 3 == 2 && i - 1 >= 0) next[i-1].flip();
-        		cur.chk[i] = true;
+        			cur.chk[i] = true;
 				q.push({next, cur.cnt+1, cur.chk});
-        		cur.chk[i] = false;
+        			cur.chk[i] = false;
 			}
 		}
 	}
