@@ -198,4 +198,11 @@ Slack 연동 계정
 [아기 상어](https://www.acmicpc.net/problem/16236)
 <br>
 <br>
+2021 02 27 16:00 2021 KAKAO BLIND RECRUITMENT
+--------------------
+[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)<br>
+[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)<br>
+[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)
+<br>
+<br>
 --------------------
