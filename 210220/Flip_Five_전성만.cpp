@@ -15,7 +15,7 @@ int main() {
 			char chr; cin >> chr;
 			if (chr == '*') b[i] = 1;
 		}
-    		vector<bool> chk(9, false);
+    	vector<bool> chk(9, false);
 		queue<th> q;
 		q.push({b, 0, chk});
 		while(!q.empty()) {
