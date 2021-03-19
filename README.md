@@ -1,55 +1,61 @@
 # AlgorithmStudy
+
 <details>
 <summary style="font-size:20px;">계획</summary>
 
---------------------
-1주차: 설명<br>
-2주차: 스택/큐<br>
-3주차: 해시<br>
-4주차: 복습<br>
-5주차: 트리<br>
-6주차: 완전검색<br>
-7주차: 동적계획<br>
-8주차: 복습<br>
-9주차: DFS<br>
-10주차: BFS<br>
-11주차: 그래프<br>
-12주차: 복습<br>
-13주차: 문자열 알고리즘 심화<br>
-14주차: 스택/큐<br>
-15주차: 해시<br>
-16주차: 트리<br>
-17주차: 완전검색<br>
-18주차: 동적계획<br>
-19주차: DFS<br>
-20주차: BFS<br>
-21주차: 그래프<br>
-22주차: 문자열 알고리즘 심화<br>
-23주차: 스택<br>
-24주차: 큐<br>
-25주차: 동적계획<br>
-26주차: 문자열<br>
-27주차: DFS<br>
-28주차: BFS<br>
-29주차: 2021 KAKAO BLIND RECRUITMENT Level 1-2<br>
-30주차: 트리<br>
-31주차: Dev Matching 대비<br>
-32주차: 그래프
+| 주차 | 계획 |
+|-----|-----|
+|1|설명|
+|2|스택/큐|
+|3|해시|
+|4|복습|
+|5|트리|
+|6|완전검색|
+|7|동적계획|
+|8|복습|
+|9|DFS|
+|10|BFS|
+|11|그래프|
+|12|복습|
+|13|문자열 알고리즘 심화|
+|14|스택/큐|
+|15|해시|
+|16|트리|
+|17|완전검색|
+|18|동적계획|
+|19|DFS|
+|20|BFS|
+|21|그래프|
+|22|문자열 알고리즘 심화|
+|23|스택|
+|24|큐|
+|25|동적계획|
+|26|문자열|
+|27|DFS|
+|28|BFS|
+|29|2021 KAKAO BLIND RECRUITMENT Level 1-2|
+|30|트리|
+|31|Dev Matching 대비|
+|32|그래프|
 
 ```후 사항에 맞게 추가 및 수정```
+
 </details>
 <br>
 <br>
 
-알고리즘 문제 선정 사이트
---------------------
+<details>
+<summary style="font-size:20px;">알고리즘 문제 선정 사이트</summary>
+
 [백준](https://swexpertacademy.com)<br>
 [프로그래머스](https://programmers.co.kr)<br>
 [SWExport Academy](https://swexpertacademy.com)<br>
+</details>
+
 <br>
 <br>
-Slack 연동 계정
---------------------
+
+Slack 연동 계정 <br>
 [SimpleAlgoStudy](https://simplealgostudy.slack.com)
 <br>
 <br>
