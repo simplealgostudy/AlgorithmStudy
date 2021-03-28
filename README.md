@@ -36,7 +36,15 @@
 |29|2021 KAKAO BLIND RECRUITMENT Level 1-2|
 |30|트리|
 |31|Dev Matching 대비|
-|32|그래프|
+|32|스택/큐|
+|33|해시|
+|34|트리|
+|35|완전검색|
+|36|동적계획|
+|37|DFS|
+|38|BFS|
+|39|그래프|
+|40|문자열 알고리즘 심화|
 
 ```후 사항에 맞게 추가 및 수정```
 
@@ -93,3 +101,4 @@ Slack 연동 계정 <br>
 |2021 02 27 16:00|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)<br>[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)<br>[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)| 2021 KAKAO BLIND RECRUITMENT|
 |2021 03 13 17:00|[문자열 집합](https://www.acmicpc.net/problem/14425)<br>[Tree](https://www.acmicpc.net/problem/4256)| TREE|
 |2021 03 20 17:00|[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)<br>[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)<br>[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)| Dev Matching 대비|
+|2021 03 28 17:00|[Seinfeld](https://www.acmicpc.net/problem/4889)<br>[PATRIK](https://www.acmicpc.net/problem/3015)|스택|
