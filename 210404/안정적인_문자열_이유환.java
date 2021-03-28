@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 
-public class 안정적인_문자열_ {
+public class 안정적인_문자열_이유환 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		Stack<Character> stk = new Stack<>();
