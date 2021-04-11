@@ -104,3 +104,4 @@ Slack 연동 계정 <br>
 |2021 03 20 17:00|[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)<br>[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)<br>[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)| Dev Matching 대비|
 |2021 04 04 17:00|[Seinfeld](https://www.acmicpc.net/problem/4889)<br>[PATRIK](https://www.acmicpc.net/problem/3015)|스택|
 |2021 04 11 17:00|[세훈이의 선물가게](https://www.acmicpc.net/problem/17225)<br>[나룻배](https://www.acmicpc.net/problem/2065)|큐|
+|2021 05 09 17:00|[서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)<br>[문자열과 쿼리](https://www.acmicpc.net/problem/13713)|해시|
