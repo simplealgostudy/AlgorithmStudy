@@ -17,11 +17,11 @@ public class Main
     String str = bf.readLine(); //String
     HashMap<String,String> map = new HashMap<>();//HashMap생성
     
-    map.clear();
+    map.clear();//초기화
     
     for(int i = 0 ; i <=str.length() ; i++){
       for(int j = i ; j <= str.length(); j++){
-        String temp = str.substring(i,j);
+        String temp = str.substring(i,j); //문자열 자르기
         if(map.containsKey(temp)){
         continue;
         }
