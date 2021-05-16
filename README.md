@@ -106,3 +106,4 @@ Slack 연동 계정 <br>
 |2021 04 11 17:00|[세훈이의 선물가게](https://www.acmicpc.net/problem/17225)<br>[나룻배](https://www.acmicpc.net/problem/2065)|큐|
 |2021 05 09 17:00|[서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)<br>[문자열과 쿼리](https://www.acmicpc.net/problem/13713)|해시|
 |2021 05 16 17:00|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)<br>[양 구출 작전](https://www.acmicpc.net/problem/16437)|트리|
+|2021 05 23 17:00|[부분수열의 합](https://www.acmicpc.net/problem/1182)<br>[비숍](https://www.acmicpc.net/problem/1799)|완전검색|
