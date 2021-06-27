@@ -108,3 +108,4 @@ Slack 연동 계정 <br>
 |2021 05 16 17:00|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)<br>[양 구출 작전](https://www.acmicpc.net/problem/16437)|트리|
 |2021 05 23 17:00|[부분수열의 합](https://www.acmicpc.net/problem/1182)<br>[비숍](https://www.acmicpc.net/problem/1799)|완전검색|
 |2021 05 30 17:00|[구간 합 구하기 5](https://www.acmicpc.net/problem/11660)<br>[돌다리 건너기](https://www.acmicpc.net/problem/2602)|동적계획|
+|2021 07 04 17:00|[안전 영역](https://www.acmicpc.net/problem/2468)<br>[Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/16988)|DFS|
