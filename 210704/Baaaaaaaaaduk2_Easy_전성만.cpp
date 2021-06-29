@@ -29,7 +29,6 @@ int main() {
             if (v[i][j] == 2 && !chk[i][j]) {
                 vector<pair<int, int>> vp;
                 vector<vector<int>>  chk_tmp(n, vector<int>(m , 0));
-                int cnt = 0;
                 int res_tmp = dfs(i, j, vp, chk_tmp);
                 if (vp.size() == 1) mp[vp[0]] += res_tmp;
                 if (vp.size() == 2) {
