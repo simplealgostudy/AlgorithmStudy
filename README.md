@@ -111,3 +111,4 @@ Slack 연동 계정 <br>
 |2021 07 04 17:00|[안전 영역](https://www.acmicpc.net/problem/2468)<br>[Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/16988)|DFS|
 |2021 07 11 17:00|[데스 나이트](https://www.acmicpc.net/problem/16948)<br>[퍼즐](https://www.acmicpc.net/problem/1525)|BFS|
 |2021 07 18 17:00|[봄버맨](https://www.acmicpc.net/problem/16918)<br>[통나무 옮기기](https://www.acmicpc.net/problem/1938)|그래프|
+|2021 07 25 17:00|[졸려](https://www.acmicpc.net/problem/9519)<br>[이름 정하기](https://www.acmicpc.net/problem/16900)|문자열 알고리즘|
