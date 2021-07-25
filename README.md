@@ -112,3 +112,4 @@ Slack 연동 계정 <br>
 |2021 07 11 17:00|[데스 나이트](https://www.acmicpc.net/problem/16948)<br>[퍼즐](https://www.acmicpc.net/problem/1525)|BFS|
 |2021 07 18 17:00|[봄버맨](https://www.acmicpc.net/problem/16918)<br>[통나무 옮기기](https://www.acmicpc.net/problem/1938)|그래프|
 |2021 07 25 17:00|[졸려](https://www.acmicpc.net/problem/9519)<br>[이름 정하기](https://www.acmicpc.net/problem/16900)|문자열 알고리즘|
+|2021 08 01 17:00|[괄호](https://www.acmicpc.net/problem/9012)<br>[도어맨](https://www.acmicpc.net/problem/5002)<br>[고스택](https://www.acmicpc.net/problem/3425)|스택|
