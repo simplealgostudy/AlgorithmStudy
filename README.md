@@ -46,6 +46,16 @@
 |39|BFS|
 |40|그래프|
 |41|문자열 알고리즘 심화|
+|42|스택|
+|43|큐|
+|44|해시|
+|45|트리|
+|46|완전검색|
+|47|동적계획|
+|48|DFS|
+|49|BFS|
+|50|그래프|
+|51|문자열 알고리즘 심화|
 
 ```후 사항에 맞게 추가 및 수정```
 
@@ -113,3 +123,4 @@ Slack 연동 계정 <br>
 |2021 07 18 17:00|[봄버맨](https://www.acmicpc.net/problem/16918)<br>[통나무 옮기기](https://www.acmicpc.net/problem/1938)|그래프|
 |2021 07 25 17:00|[졸려](https://www.acmicpc.net/problem/9519)<br>[이름 정하기](https://www.acmicpc.net/problem/16900)|문자열 알고리즘|
 |2021 08 01 17:00|[괄호](https://www.acmicpc.net/problem/9012)<br>[도어맨](https://www.acmicpc.net/problem/5002)<br>[고스택](https://www.acmicpc.net/problem/3425)|스택|
+|2021 08 08 17:00|[Router](https://www.acmicpc.net/problem/15828)<br>[주차장](https://www.acmicpc.net/problem/5464)<br>[좋은 친구](https://www.acmicpc.net/problem/3078)|큐|
