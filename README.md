@@ -125,3 +125,4 @@ Slack 연동 계정 <br>
 |2021 08 01 17:00|[괄호](https://www.acmicpc.net/problem/9012)<br>[도어맨](https://www.acmicpc.net/problem/5002)<br>[고스택](https://www.acmicpc.net/problem/3425)|스택|
 |2021 08 08 17:00|[Router](https://www.acmicpc.net/problem/15828)<br>[주차장](https://www.acmicpc.net/problem/5464)<br>[좋은 친구](https://www.acmicpc.net/problem/3078)|큐|
 |2021 08 15 17:00|[싸이버개강총회](https://www.acmicpc.net/problem/19583)<br>[직사각형 집합](https://www.acmicpc.net/problem/9464)|해시|
+|2021 08 22 17:00|[부동산 다툼](https://www.acmicpc.net/problem/20364)<br>[두 번째 트리의 지름](https://www.acmicpc.net/problem/19581)|트리|
