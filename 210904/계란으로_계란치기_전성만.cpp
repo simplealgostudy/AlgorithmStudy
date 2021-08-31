@@ -6,23 +6,23 @@ int res = 0;
 void dfs(vector<pair<int, int>> p, int index, int cnt) 
 {
 	if (index == p.size()) 
-    {
+   	{
 		if (res < cnt) res = cnt;
 
 		return;
 	}
 	if (p[index].first <= 0) 
-    {
+    	{
 		dfs(p, index + 1, cnt);
         
 		return;
 	}
 	for (int i = 0; i < p.size(); ++i) 
-    {
+    	{
 		if (i == index) continue;
 
 		if (p[i].first > 0) 
-        {
+        	{
 			vector<pair<int, int>> tmp = p;
 			tmp[i].first -= tmp[index].second;
 			tmp[index].first -= tmp[i].second;
@@ -33,17 +33,18 @@ void dfs(vector<pair<int, int>> p, int index, int cnt)
 
 			dfs(tmp, index + 1, cnt + tcnt);
 		} 
-        else 
-        {
+        	else 
+        	{
 			dfs(p, index + 1, cnt);
 		}
 	}
+	
 	return;
 }
 
 int main() 
 {
-    ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
+	ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
 
 	int n; cin >> n;
 	vector<pair<int, int>> p(n);
@@ -52,5 +53,5 @@ int main()
 
 	cout << res;	
 
-    return 0;
+    	return 0;
 } 
