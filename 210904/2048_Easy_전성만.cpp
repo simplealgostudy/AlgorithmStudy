@@ -15,7 +15,7 @@ int findMaxValue(vector<vector<int>> v)
         }
     }
 
-	return tmp;
+    return tmp;
 }
 
 vector<vector<int>> moveVector(vector<vector<int>> v, int p) 
@@ -54,11 +54,11 @@ vector<vector<int>> moveVector(vector<vector<int>> v, int p)
                     }
                     stk.pop();
                 }
-				if (tmp) 
+		if (tmp) 
                 {
-					v[i][j++] = tmp;
-				}
-				for (int k = j; k < n; ++k) v[i][k] = 0;
+		    v[i][j++] = tmp;
+		}
+		for (int k = j; k < n; ++k) v[i][k] = 0;
             }
             break;
         }
@@ -95,11 +95,11 @@ vector<vector<int>> moveVector(vector<vector<int>> v, int p)
                     }
                     stk.pop();
                 }  
-				if (tmp) 
+		if (tmp) 
                 {
-					v[i][j--] = tmp;
-				}
-				for (int k = j; k >= 0; --k) v[i][k] = 0;              
+		    v[i][j--] = tmp;
+		}
+		for (int k = j; k >= 0; --k) v[i][k] = 0;              
             }
             break;
         }
@@ -136,11 +136,11 @@ vector<vector<int>> moveVector(vector<vector<int>> v, int p)
                     }
                     stk.pop();
                 }         
-				if (tmp) 
+		if (tmp) 
                 {
-					v[j++][i] = tmp;
-				} 
-				for (int k = j; k < n; ++k) v[k][i] = 0;      
+		    v[j++][i] = tmp;
+		} 
+		for (int k = j; k < n; ++k) v[k][i] = 0;      
             }
             break;
         }
@@ -177,11 +177,11 @@ vector<vector<int>> moveVector(vector<vector<int>> v, int p)
                     }
                     stk.pop();
                 } 
-				if (tmp) 
+		if (tmp) 
                 {
-					v[j--][i] = tmp;
-				}
-				for (int k = j; k >= 0; --k) v[k][i] = 0;              
+		    v[j--][i] = tmp;
+		}
+		for (int k = j; k >= 0; --k) v[k][i] = 0;              
             }
             break;
         }
@@ -208,10 +208,12 @@ int main()
 {
     ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
     
-	cin >> n;
+    cin >> n;
     vector<vector<int>> v(n, vector<int>(n));
     for (int i = 0; i < n; ++i) for (int j = 0; j < n; ++j) cin >> v[i][j];
     dfs (v, 0);
+	
     cout << res;
+	
     return 0;
 }
