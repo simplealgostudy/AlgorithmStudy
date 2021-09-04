@@ -127,3 +127,4 @@ Slack 연동 계정 <br>
 |2021 08 15 17:00|[싸이버개강총회](https://www.acmicpc.net/problem/19583)<br>[직사각형 집합](https://www.acmicpc.net/problem/9464)|해시|
 |2021 08 22 17:00|[부동산 다툼](https://www.acmicpc.net/problem/20364)<br>[두 번째 트리의 지름](https://www.acmicpc.net/problem/19581)|트리|
 |2021 09 04 17:00|[계란으로 계란치기](https://www.acmicpc.net/problem/16987)<br>[2048 (Easy)](https://www.acmicpc.net/problem/12100)|완전검색|
+|2021 09 11 17:00|[전깃줄](https://www.acmicpc.net/problem/2565)<br>[가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)|동적계획|
