@@ -129,3 +129,4 @@ Slack 연동 계정 <br>
 |2021 09 04 17:00|[계란으로 계란치기](https://www.acmicpc.net/problem/16987)<br>[2048 (Easy)](https://www.acmicpc.net/problem/12100)|완전검색|
 |2021 09 11 17:00|[전깃줄](https://www.acmicpc.net/problem/2565)<br>[가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)|동적계획|
 |2021 09 25 17:00|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)<br>[물통](https://www.acmicpc.net/problem/2251)<br>[서울 지하철 2호선](https://www.acmicpc.net/problem/16947)|DFS|
+|2021 10 02 17:00|[침투](https://www.acmicpc.net/problem/13565)<br>[음식물](https://www.acmicpc.net/problem/1743)<br>[교환](https://www.acmicpc.net/problem/1039)|BFS|
