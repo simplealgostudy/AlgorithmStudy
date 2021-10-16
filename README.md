@@ -56,6 +56,7 @@
 |49|BFS|
 |50|그래프|
 |51|문자열 알고리즘 심화|
+|52|프로그래머스 위클리 8-10주차|
 
 ```후 사항에 맞게 추가 및 수정```
 
@@ -132,3 +133,4 @@ Slack 연동 계정 <br>
 |2021 10 02 17:00|[침투](https://www.acmicpc.net/problem/13565)<br>[음식물](https://www.acmicpc.net/problem/1743)<br>[교환](https://www.acmicpc.net/problem/1039)|BFS|
 |2021 10 09 17:00|[효율적인 해킹](https://www.acmicpc.net/problem/1325)<br>[전쟁](https://www.acmicpc.net/problem/1303)<br>[구술 탈출](https://www.acmicpc.net/problem/13459)|그래프|
 |2021 10 16 17:00|[시그널](https://www.acmicpc.net/problem/16113)<br>[팰린드롬 만들기](https://www.acmicpc.net/problem/1254)<br>[독특한 계산기](https://www.acmicpc.net/problem/19591)|문자열|
+|2021 11 06 17:00|[최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)<br>[전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)<br>[교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377)|프로그래머스 위클리 8-10주차|
