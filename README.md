@@ -135,3 +135,4 @@ Slack 연동 계정 <br>
 |2021 10 16 17:00|[시그널](https://www.acmicpc.net/problem/16113)<br>[팰린드롬 만들기](https://www.acmicpc.net/problem/1254)<br>[독특한 계산기](https://www.acmicpc.net/problem/19591)|문자열|
 |2021 11 06 17:00|[최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)<br>[전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)<br>[교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377)|프로그래머스 위클리 8-10주차|
 |2021 11 13 17:00|[후위 표기식2](https://www.acmicpc.net/problem/1935)<br>[외계인의 기타 연주](https://www.acmicpc.net/problem/2841)<br>[곡선 자르기](https://www.acmicpc.net/problem/14865)|스택|
+|2021 11 20 17:00|[앵무새](https://www.acmicpc.net/problem/14713)<br>[트럭](https://www.acmicpc.net/problem/13335)<br>[좀비 떼가 기관총 진지에도 오다니](https://www.acmicpc.net/problem/19644)|큐|
