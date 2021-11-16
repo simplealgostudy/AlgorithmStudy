@@ -6,7 +6,6 @@ int main() {
     //freopen("input.in", "r", stdin);
     ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
     int l, m, k, c; cin >> l >> m >> k >> c;
-    queue<int> q;
     for (int i = 0; i < l; ++i) cin >> arr[i];
     long long at = 0, cm = 0;
     queue<int> cmidx;
