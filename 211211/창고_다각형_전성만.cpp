@@ -5,9 +5,6 @@ int main() {
     ios_base::sync_with_stdio(false),cin.tie(nullptr),cout.tie(nullptr);
     int n, answer = 0; cin >> n;
     vector<pair<int, int>> v;
-    pair<int, vector<int>> m;
-    m.first = 0;
-    m.second.clear();
     for (int i = 0; i < n; ++i) {
         int l, h; cin >> l >> h;
         v.push_back({l, h});
