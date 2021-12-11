@@ -153,3 +153,4 @@ Slack 연동 계정 <br>
 |2021 11 27 17:00|[걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165)<br>[마니또](https://www.acmicpc.net/problem/5107)<br>[구간 성분](https://www.acmicpc.net/problem/10840)|해시|
 |2021 12 04 17:00|[접두사 찾기](https://www.acmicpc.net/problem/14426)<br>[원숭이 매달기](https://www.acmicpc.net/problem/2716)<br>[준오는 최종인재야!!](https://www.acmicpc.net/problem/14657)|트리|
 |2021 12 11 17:00|[에디터](https://www.acmicpc.net/problem/1406)<br>[창고 다각형](https://www.acmicpc.net/problem/2304)<br>[PPAP](https://www.acmicpc.net/problem/16120)|스택|
+|2021 12 18 17:00|[센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638)<br>[강의실](https://www.acmicpc.net/problem/1374)<br>[Condition of deep sleep](https://www.acmicpc.net/problem/11577)|큐|
