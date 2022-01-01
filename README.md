@@ -156,3 +156,4 @@ Slack 연동 계정 <br>
 |2021 12 18 17:00|[센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638)<br>[강의실](https://www.acmicpc.net/problem/1374)<br>[Condition of deep sleep](https://www.acmicpc.net/problem/11577)|큐|
 |2021 12 25 17:00|[가희와 키워드](https://www.acmicpc.net/problem/22233)<br>[정보 상인 호석](https://www.acmicpc.net/problem/22252)<br>[전설의 JBNU](https://www.acmicpc.net/problem/12757)|해시|
 |2022 01 01 17:00|[차이를 최대로](https://www.acmicpc.net/problem/10819)<br>[사다리 조작](https://www.acmicpc.net/problem/15684)<br>[색종이 붙이기](https://www.acmicpc.net/problem/17136)|완전탐색|
+|2022 01 08 17:00|[피보나치 수의 개수](https://www.acmicpc.net/problem/6571)<br>[정렬](https://www.acmicpc.net/problem/17074)<br>[RGB거리 2](https://www.acmicpc.net/problem/17404)|동적계획|
