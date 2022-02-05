@@ -160,3 +160,4 @@ Slack 연동 계정 <br>
 |2022 01 15 17:00|[효율적인 해킹](https://www.acmicpc.net/problem/1325)<br>[미친 로봇](https://www.acmicpc.net/problem/1405)<br>[미네랄](https://www.acmicpc.net/problem/2933)|DFS|
 |2022 01 29 17:00|[그림](https://www.acmicpc.net/problem/1926)<br>[게리멘더링](https://www.acmicpc.net/problem/17471)<br>[달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)|BFS|
 |2022 02 05 17:00|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)<br>[두 로봇](https://www.acmicpc.net/problem/15971)<br>[로봇](https://www.acmicpc.net/problem/1726)|그래프|
+|2022 02 12 17:00|[문자열 변환](https://www.acmicpc.net/problem/10453)<br>[문자열 잘라내기](https://www.acmicpc.net/problem/2866)<br>[문자해독](https://www.acmicpc.net/problem/1593)|문자열 알고리즘 심화|
