@@ -10,7 +10,7 @@ public class Main {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in)); 	// 선언
 		ArrayList<Integer> list = new ArrayList<Integer>(); 						//ArrayList 선언
 		
-		int cost_sum = 0;									//cost sum값
+		long cost_sum = 0;									//cost sum값
 		int len = 0;									//입력받을 크기
 		
 		len = Integer.parseInt(br.readLine());
@@ -19,8 +19,7 @@ public class Main {
 			list.add(Integer.parseInt(br.readLine()));
 		}
 		
-		list.sort(null);								//정렬
-		
+	
 		for(int j=0; j<list.size()-1; j++) {
 			cost_sum += Math.max(list.get(j), list.get(j+1));
 		}
