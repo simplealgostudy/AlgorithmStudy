@@ -173,3 +173,4 @@ Slack 연동 계정 <br>
 |2022 02 19 17:00|[문자열 변환](https://www.acmicpc.net/problem/10453)<br>[문자열 잘라내기](https://www.acmicpc.net/problem/2866)<br>[문자해독](https://www.acmicpc.net/problem/1593)|문자열 알고리즘 심화|
 |2022 03 12 17:00|[모든 스택 수열](https://www.acmicpc.net/problem/23284)<br>[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)<br>[수열 줄이기](https://www.acmicpc.net/problem/3366)|스택|
 |2022 04 02 17:00|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)<br>[가희와 은행](https://www.acmicpc.net/problem/22234)<br>[소수의 곱](https://www.acmicpc.net/problem/2014)|큐|
+|2022 04 09|[서울의 지하철](https://www.acmicpc.net/problem/16166)<br>[왕위 계승](https://www.acmicpc.net/problem/5021)<br>[새로운 하노이 탑](https://www.acmicpc.net/problem/12906)<br>5분 CS 관련 발표 참고사이트 [Tech Interview](https://gyoogle.dev/blog/)|해시|
