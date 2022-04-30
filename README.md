@@ -175,3 +175,4 @@ Slack 연동 계정 <br>
 |2022 04 02 17:00|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)<br>[가희와 은행](https://www.acmicpc.net/problem/22234)<br>[소수의 곱](https://www.acmicpc.net/problem/2014)|큐|
 |2022 04 16 17:00|[서울의 지하철](https://www.acmicpc.net/problem/16166)<br>[왕위 계승](https://www.acmicpc.net/problem/5021)<br>[새로운 하노이 탑](https://www.acmicpc.net/problem/12906)<br>5분 CS 관련 발표 참고사이트 [Tech Interview](https://gyoogle.dev/blog/)|해시|
 |2022 04 23 17:00|[트리 나라 관광 가이드](https://www.acmicpc.net/problem/15805)<br>[단절점과 단절선](https://www.acmicpc.net/problem/14675)<br>[트리의 높이와 너비](https://www.acmicpc.net/problem/2250)<br>각자 주제의 맞게 5분 CS관련 발표|트리|
+|2022 05 07 17:00|[외판원 순회 2](https://www.acmicpc.net/problem/10971)<br>[테트로미노](https://www.acmicpc.net/problem/14500)<br>[스도미노쿠](https://www.acmicpc.net/problem/4574) |완전검색|
