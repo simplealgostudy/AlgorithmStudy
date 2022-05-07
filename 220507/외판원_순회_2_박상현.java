@@ -23,17 +23,14 @@ public class Main {
 	            W[i][j] = Integer.parseInt(st.nextToken());
 	        }
 	    }
-		System.out.println(solve(nums));
-	}
-
-	public static long solve(int[] nums) {
+	    
 		List<Integer> tempList = new ArrayList<Integer>();
 
 		backtracking(tempList, nums);
-
-		return result_min;
+		
+		System.out.println(result_min);
 	}
-
+	
 	public static void backtracking(List<Integer> tempList, int[] nums) {
 		if (tempList.size() == nums.length) {
 			int sum = 0;
