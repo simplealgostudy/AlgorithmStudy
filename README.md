@@ -177,3 +177,4 @@ Slack 연동 계정 <br>
 |2022 04 23 17:00|[트리 나라 관광 가이드](https://www.acmicpc.net/problem/15805)<br>[단절점과 단절선](https://www.acmicpc.net/problem/14675)<br>[트리의 높이와 너비](https://www.acmicpc.net/problem/2250)<br>각자 주제의 맞게 5분 CS관련 발표|트리|
 |2022 05 07 17:00|[외판원 순회 2](https://www.acmicpc.net/problem/10971)<br>[테트로미노](https://www.acmicpc.net/problem/14500)<br>[스도미노쿠](https://www.acmicpc.net/problem/4574) |완전검색|
 |2022 05 14 17:00|[기타리스트](https://www.acmicpc.net/problem/1495)<br>[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|동적계획|
+|2022 05 28 17:00|[양 한마리... 양 두마리...](https://www.acmicpc.net/problem/11123)<br>[상어 중학교](https://www.acmicpc.net/problem/21609)|DFS|
