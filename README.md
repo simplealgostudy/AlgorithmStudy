@@ -178,3 +178,4 @@ Slack 연동 계정 <br>
 |2022 05 07 17:00|[외판원 순회 2](https://www.acmicpc.net/problem/10971)<br>[테트로미노](https://www.acmicpc.net/problem/14500)<br>[스도미노쿠](https://www.acmicpc.net/problem/4574) |완전검색|
 |2022 05 14 17:00|[기타리스트](https://www.acmicpc.net/problem/1495)<br>[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|동적계획|
 |2022 05 28 17:00|[양 한마리... 양 두마리...](https://www.acmicpc.net/problem/11123)<br>[상어 중학교](https://www.acmicpc.net/problem/21609)|DFS|
+|2022 06 11 17:00|[숨바꼭질](https://www.acmicpc.net/problem/6118)<br>[스타트 택시](https://www.acmicpc.net/problem/19238)|BFS|
