@@ -1,5 +1,5 @@
 # AlgorithmStudy
-
+<!-- 
 <details>
 <summary style="font-size:20px;">계획</summary>
 
@@ -83,7 +83,6 @@
 |76|문자열 알고리즘 심화|
 
 ```후 사항에 맞게 추가 및 수정```
-
 </details>
 <br>
 <br>
@@ -99,11 +98,16 @@
 <br>
 <br>
 
-Slack 연동 계정 <br>
+Slack 연동 계정 
+<br>
 [SimpleAlgoStudy](https://simplealgostudy.slack.com)
 <br>
-<br>
 --------------------
+<br>
+ -->
+<details>
+<summary style="font-size:20px;">2020</summary>
+
 |       날짜      | 문제 |  참고  |
 |----------------|------|-------|
 |2020 05 16 20:00|  [스택](https://www.acmicpc.net/problem/10828)<br> [큐](https://www.acmicpc.net/problem/10845)|
@@ -128,6 +132,13 @@ Slack 연동 계정 <br>
 |2020 11 14 17:00|[돌다리](https://www.acmicpc.net/problem/12761)| BFS|
 |2020 11 21 16:30|[How Many Islands?](https://www.acmicpc.net/problem/4963)| 그래프|
 |2020 11 28 16:30|[로마 숫자](https://www.acmicpc.net/problem/2608)| 문자열 알고리즘|
+</details>
+<br>
+<details>
+<summary style="font-size:20px;">2021</summary>
+
+|       날짜      | 문제 |  참고  |
+|----------------|------|-------|
 |2021 01 09 16:00|[괄호의 값](https://www.acmicpc.net/problem/2504)<br>[오등큰수](https://www.acmicpc.net/problem/17299)| 스택|
 |2021 01 16 16:00|[Printer Queue](https://www.acmicpc.net/problem/1966)<br>[전생했더니 슬라임 연구자였던 건에 대하여 (Hard)](https://www.acmicpc.net/problem/14698)| 큐|
 |2021 01 23 16:00|[연속부분최대곱](https://www.acmicpc.net/problem/2670)<br>[내려가기](https://www.acmicpc.net/problem/2096)| 동적계획|
@@ -165,6 +176,11 @@ Slack 연동 계정 <br>
 |2021 12 11 17:00|[에디터](https://www.acmicpc.net/problem/1406)<br>[창고 다각형](https://www.acmicpc.net/problem/2304)<br>[PPAP](https://www.acmicpc.net/problem/16120)|스택|
 |2021 12 18 17:00|[센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638)<br>[강의실](https://www.acmicpc.net/problem/1374)<br>[Condition of deep sleep](https://www.acmicpc.net/problem/11577)|큐|
 |2021 12 25 17:00|[가희와 키워드](https://www.acmicpc.net/problem/22233)<br>[정보 상인 호석](https://www.acmicpc.net/problem/22252)<br>[전설의 JBNU](https://www.acmicpc.net/problem/12757)|해시|
+</details>
+<br>
+
+|       날짜      | 문제 |  참고  |
+|----------------|------|-------|
 |2022 01 01 17:00|[차이를 최대로](https://www.acmicpc.net/problem/10819)<br>[사다리 조작](https://www.acmicpc.net/problem/15684)<br>[색종이 붙이기](https://www.acmicpc.net/problem/17136)|완전탐색|
 |2022 01 08 17:00|[피보나치 수의 개수](https://www.acmicpc.net/problem/6571)<br>[정렬](https://www.acmicpc.net/problem/17074)<br>[RGB거리 2](https://www.acmicpc.net/problem/17404)|동적계획|
 |2022 01 15 17:00|[효율적인 해킹](https://www.acmicpc.net/problem/1325)<br>[미친 로봇](https://www.acmicpc.net/problem/1405)<br>[미네랄](https://www.acmicpc.net/problem/2933)|DFS|
@@ -181,3 +197,4 @@ Slack 연동 계정 <br>
 |2022 06 11 17:00|[숨바꼭질](https://www.acmicpc.net/problem/6118)<br>[스타트 택시](https://www.acmicpc.net/problem/19238)|BFS|
 |2022 06 18 13:00|[점프 게임](https://www.acmicpc.net/problem/15558)<br>[로봇 청소기](https://www.acmicpc.net/problem/4991)|그래프|
 |2022 07 02 13:00|[HTML](https://www.acmicpc.net/problem/6581)<br>[디스크 트리](https://www.acmicpc.net/problem/7432)|문자열|
+|2022 07 16 13:00|[점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174)<br>[내 선물을 받아줘](https://www.acmicpc.net/problem/15559)|DFS|
