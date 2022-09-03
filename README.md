@@ -202,3 +202,4 @@ Slack 연동 계정
 |220820|[컴백홈](https://www.acmicpc.net/problem/1189)<br>[모양 만들기](https://www.acmicpc.net/problem/16932)|Graph|
 |220827|[민식어](https://www.acmicpc.net/problem/1599)<br>[36진수](https://www.acmicpc.net/problem/1036)|String|
 |220903|[이상한 하노이 탑](https://www.acmicpc.net/problem/15500)<br>[연산자 끼워넣기 (3)](https://www.acmicpc.net/problem/15659)|Stack|
+|220917|[선물 교환](https://www.acmicpc.net/problem/1889)<br>[좋은 수](https://www.acmicpc.net/problem/1060)|Queue|
