@@ -206,3 +206,4 @@ Slack 연동 계정
 |221001|[자바의 형변환](https://www.acmicpc.net/problem/25601)<br>[수들의 합 4](https://www.acmicpc.net/problem/2015)|Hash|
 |221015|[너구리 구구](https://www.acmicpc.net/problem/18126)<br>[전단지 돌리기](https://www.acmicpc.net/problem/19542)|Tree|
 |221022|[에너지 모으기](https://www.acmicpc.net/problem/16198)<br>[가르침](https://www.acmicpc.net/problem/1062)|완전탐색|
+|221029|[양치기 꿍](https://www.acmicpc.net/problem/3187)<br>[피리 부는 사나이](https://www.acmicpc.net/problem/16724)|DFS|
