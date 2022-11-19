@@ -210,3 +210,4 @@ Slack 연동 계정
 |221105|[출근](https://www.acmicpc.net/problem/13903)<br>[Maaaaaaaaaze](https://www.acmicpc.net/problem/16985)|BFS|
 |221112|[세 친구](https://www.acmicpc.net/problem/17089)<br>[유닛 이동시키기](https://www.acmicpc.net/problem/2194)|Graph|
 |221119|[SMUPC 계산기](https://www.acmicpc.net/problem/21737)<br>[타일 뒤집기 (Easy)](https://www.acmicpc.net/problem/14711)|String|
+|221126|[북극곰은 괄호를 찢어](https://www.acmicpc.net/problem/25918)<br>[현욱은 괄호왕이야!!](https://www.acmicpc.net/problem/15926)|Stack|
