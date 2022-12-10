@@ -213,3 +213,4 @@ Slack 연동 계정
 |221126|[북극곰은 괄호를 찢어](https://www.acmicpc.net/problem/25918)<br>[현욱은 괄호왕이야!!](https://www.acmicpc.net/problem/15926)|Stack|
 |221203|[아이들과 선물 상자](https://www.acmicpc.net/problem/23757)<br>[컵라면](https://www.acmicpc.net/problem/1781)|Queue|
 |221210|[유전자 조합](https://www.acmicpc.net/problem/25758)<br>[폴더 정리 (small)](https://www.acmicpc.net/problem/22860)|Hash|
+|221231|[접두사](https://www.acmicpc.net/problem/1141)<br>[ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535)|Tree|
