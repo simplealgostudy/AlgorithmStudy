@@ -178,7 +178,7 @@ Slack 연동 계정
 |2021 12 25 17:00|[가희와 키워드](https://www.acmicpc.net/problem/22233)<br>[정보 상인 호석](https://www.acmicpc.net/problem/22252)<br>[전설의 JBNU](https://www.acmicpc.net/problem/12757)|해시|
 </details>
 <br>
-<details open>
+<details>
 <summary style="font-size:20px;">2022</summary>
 
 |       날짜      | 문제 |  참고  |
@@ -216,5 +216,14 @@ Slack 연동 계정
 |221203|[아이들과 선물 상자](https://www.acmicpc.net/problem/23757)<br>[컵라면](https://www.acmicpc.net/problem/1781)|Queue|
 |221210|[유전자 조합](https://www.acmicpc.net/problem/25758)<br>[폴더 정리 (small)](https://www.acmicpc.net/problem/22860)|Hash|
 |221231|[접두사](https://www.acmicpc.net/problem/1141)<br>[ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535)|Tree|
+</details>
+<br>
+<details open>
+<summary style="font-size:20px;">2023</summary>
+
+|       날짜      | 문제 |  참고  |
+|----------------|------|-------|
+|230107|[친구 팰린드롬](https://www.acmicpc.net/problem/15270)<br>[육각형 우리 속의 개미](https://www.acmicpc.net/problem/17370)|완전탐색|
+
 </details>
 <br>
