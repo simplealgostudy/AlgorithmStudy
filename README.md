@@ -224,6 +224,7 @@ Slack 연동 계정
 |       날짜      | 문제 |  참고  |
 |----------------|------|-------|
 |230107|[친구 팰린드롬](https://www.acmicpc.net/problem/15270)<br>[육각형 우리 속의 개미](https://www.acmicpc.net/problem/17370)|완전탐색|
+|230128|[점프](https://www.acmicpc.net/problem/1890)<br>[게임 개발](https://www.acmicpc.net/problem/1516)|DP|
 
 </details>
 <br>
