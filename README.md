@@ -226,6 +226,6 @@ Slack 연동 계정
 |230107|[친구 팰린드롬](https://www.acmicpc.net/problem/15270)<br>[육각형 우리 속의 개미](https://www.acmicpc.net/problem/17370)|완전탐색|
 |230128|[점프](https://www.acmicpc.net/problem/1890)<br>[게임 개발](https://www.acmicpc.net/problem/1516)|DP|
 |230211|[구호물자](https://www.acmicpc.net/problem/11581)<br>[다리 만들기 2](https://www.acmicpc.net/problem/17472)|DFS|
-
+|230319|[태권왕](https://www.acmicpc.net/problem/14562)<br>[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|BFS|
 </details>
 <br>
