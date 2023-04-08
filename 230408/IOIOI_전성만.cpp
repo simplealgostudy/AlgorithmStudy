@@ -1,35 +1,17 @@
-#include <bits/stdc++.h>
+#include<iostream>
 using namespace std;
 int main() {
     ios_base::sync_with_stdio(false), cin.tie(nullptr), cout.tie(nullptr);
     int n, m;
     string s;
     cin >> n >> m >> s;
-    string pattern = "I";
-    for (int i = 0; i < n; i++) pattern += "OI";
-    vector<int> v(m, 0);
-    int p = 1 + (2 * n);
-    int res = 0;
-    for (int i = 0; i < m; i++)
+    int p = 1 + (2 * n), b = (s[0]=='I'?1:0), res = 0;
+    for (int i = 1; i < m; i++)
     {
-        if (s[i] == 'O')
-        {
-            if (i - 1 >= 0 && s[i - 1] == 'I')
-                v[i] = v[i-1] + 1;
-            else
-                v[i] = 0;
-        }
+        if (s[i] != s[i-1]) b++;
         else
-        {
-            if (i - 1 >= 0 && s[i - 1] == 'O')
-            {
-                v[i] = v[i-1] + 1;
-                if (v[i] >= p)
-                    res++;
-            }
-            else
-                v[i] = 1;
-        }
+            b = (s[i] == 'I' ? 1 : 0);
+        if (s[i] == 'I' && b >= p) res++;
     }
     cout << res;
     return 0;
