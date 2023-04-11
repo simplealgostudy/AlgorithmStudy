@@ -1,10 +1,6 @@
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.Stack;
 import java.util.StringTokenizer;
-
-//참고 : 전성만 코드
 
 class Pair10{
     int first;
@@ -47,6 +43,7 @@ public class Q25956 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
         int N = Integer.parseInt(st.nextToken());
@@ -57,25 +54,29 @@ public class Q25956 {
             int l = Integer.parseInt(st.nextToken());
 
             if(i == 0 && l != 1) {
-                System.out.println(-1);
+                bw.write(-1 + "");
+                bw.close();
                 System.exit(0);
             }
 
             if(!stk.empty() && stk.peek().first > l && ! check(l)){
-                System.out.println(-1);
+                bw.write(-1 + "");
+                bw.close();
                 System.exit(0);
             }
             stk.push(new Pair10(l, i));
         }
 
         if(!stk.empty() && !check(0)){
-            System.out.println(-1);
+            bw.write(-1 + "");
+            bw.close();
             System.exit(0);
         };
 
         for(int i = 0; i < N; i++){
-            System.out.println(answerArr[i]);
+            bw.write(answerArr[i] + "\n");
         }
+        bw.close();
 
     }
 }
