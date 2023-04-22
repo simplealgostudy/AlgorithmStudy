@@ -230,5 +230,6 @@ Slack 연동 계정
 |230325|[현명한 나이트](https://www.acmicpc.net/problem/18404)<br>[조각 움직이기](https://www.acmicpc.net/problem/1035)|Graph|
 |230408|[IOIOI](https://www.acmicpc.net/problem/5525)<br>[36진수](https://www.acmicpc.net/problem/1036)|String|
 |230415|[목차 세기](https://www.acmicpc.net/problem/25956)<br>[Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954)|Stack|
+|230429|[맥주 축제](https://www.acmicpc.net/problem/17503)<br>[비행기 전시](https://www.acmicpc.net/problem/25604)|Queue|
 </details>
 <br>
