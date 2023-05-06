@@ -231,5 +231,6 @@ Slack 연동 계정
 |230408|[IOIOI](https://www.acmicpc.net/problem/5525)<br>[36진수](https://www.acmicpc.net/problem/1036)|String|
 |230415|[목차 세기](https://www.acmicpc.net/problem/25956)<br>[Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954)|Stack|
 |230429|[맥주 축제](https://www.acmicpc.net/problem/17503)<br>[비행기 전시](https://www.acmicpc.net/problem/25604)|Queue|
+|230513|[졸업 사진](https://www.acmicpc.net/problem/23349)<br>[부품 대여장](https://www.acmicpc.net/problem/21942)|Hash|
 </details>
 <br>
