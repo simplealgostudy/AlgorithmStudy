@@ -233,5 +233,6 @@ Slack 연동 계정
 |230429|[맥주 축제](https://www.acmicpc.net/problem/17503)<br>[비행기 전시](https://www.acmicpc.net/problem/25604)|Queue|
 |230513|[졸업 사진](https://www.acmicpc.net/problem/23349)<br>[부품 대여장](https://www.acmicpc.net/problem/21942)|Hash|
 |230527|[값이 k인 트리 노드의 깊이](https://www.acmicpc.net/problem/25511)<br>[양분](https://www.acmicpc.net/problem/20530)|Tree|
+|230603|[단풍잎 이야기](https://www.acmicpc.net/problem/16457)<br>[망가진 계산기](https://www.acmicpc.net/problem/1443)|BackTracking|
 </details>
 <br>
