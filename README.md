@@ -236,5 +236,6 @@ Slack 연동 계정
 |230603|[단풍잎 이야기](https://www.acmicpc.net/problem/16457)<br>[망가진 계산기](https://www.acmicpc.net/problem/1443)|BackTracking|
 |230617|[작업](https://www.acmicpc.net/problem/21937)<br>[사자와 토끼](https://www.acmicpc.net/problem/17834)|DFS|
 |230701|[완전 범죄](https://www.acmicpc.net/problem/13700)<br>[하이퍼 토마토](https://www.acmicpc.net/problem/17114)|BFS|
+|230709|[트리를 간단하게 색칠하는 최소 비용](https://www.acmicpc.net/problem/25512)<br>[신성 문자](https://www.acmicpc.net/problem/4217)|Graph|
 </details>
 <br>
