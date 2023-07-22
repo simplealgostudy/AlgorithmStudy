@@ -239,5 +239,6 @@ Slack 연동 계정
 |230709|[트리를 간단하게 색칠하는 최소 비용](https://www.acmicpc.net/problem/25512)<br>[신성 문자](https://www.acmicpc.net/problem/4217)|Graph|
 |230715|[망가진 키보드](https://www.acmicpc.net/problem/6503)<br>[창업](https://www.acmicpc.net/problem/16890)|STRING|
 |230722|[버섯 농장](https://www.acmicpc.net/problem/27737)<br>[최소 트리 분할](https://www.acmicpc.net/problem/27653)|DFS|
+|230729|[돌리기](https://www.acmicpc.net/problem/1682)<br>[미로에 갇힌 건우](https://www.acmicpc.net/problem/182241)|BFS|
 </details>
 <br>
