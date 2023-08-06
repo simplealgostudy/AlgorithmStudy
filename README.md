@@ -243,5 +243,6 @@ Slack 연동 계정
 |230722|[버섯 농장](https://www.acmicpc.net/problem/27737)<br>[최소 트리 분할](https://www.acmicpc.net/problem/27653)|DFS|
 |230729|[돌리기](https://www.acmicpc.net/problem/1682)<br>[미로에 갇힌 건우](https://www.acmicpc.net/problem/18224)|BFS|
 |230805|[보이저 1호](https://www.acmicpc.net/problem/3987)<br>[버스 갈아타기](https://www.acmicpc.net/problem/2536)|Graph|
+|230812|[오늘은 OS 숙제 제출일](https://www.acmicpc.net/problem/2730)<br>[목걸이 수열](https://www.acmicpc.net/problem/2070)|STRING|
 </details>
 <br>
