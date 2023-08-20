@@ -245,5 +245,6 @@ Slack 연동 계정
 |230805|[보이저 1호](https://www.acmicpc.net/problem/3987)<br>[버스 갈아타기](https://www.acmicpc.net/problem/2536)|Graph|
 |230812|[오늘은 OS 숙제 제출일](https://www.acmicpc.net/problem/2730)<br>[목걸이 수열](https://www.acmicpc.net/problem/2070)|STRING|
 |230819|[화학식량](https://www.acmicpc.net/problem/2257)<br>[계산 문제](https://www.acmicpc.net/problem/2054)|STACK|
+|230826|[회전초밥](https://www.acmicpc.net/problem/28107)<br>[알고리즘 공부](https://www.acmicpc.net/problem/17942)|Queue|
 </details>
 <br>
