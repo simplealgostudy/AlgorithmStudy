@@ -246,5 +246,6 @@ Slack 연동 계정
 |230812|[오늘은 OS 숙제 제출일](https://www.acmicpc.net/problem/2730)<br>[목걸이 수열](https://www.acmicpc.net/problem/2070)|STRING|
 |230819|[화학식량](https://www.acmicpc.net/problem/2257)<br>[계산 문제](https://www.acmicpc.net/problem/2054)|STACK|
 |230826|[회전초밥](https://www.acmicpc.net/problem/28107)<br>[알고리즘 공부](https://www.acmicpc.net/problem/17942)|Queue|
+|231007|[애너그램 그룹](https://www.acmicpc.net/problem/6566)<br>[스카이라인](https://www.acmicpc.net/problem/1933)|Hash|
 </details>
 <br>
