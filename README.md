@@ -1,5 +1,3 @@
-디코 : https://discord.gg/NswB4EWs
-
 # AlgorithmStudy
 <!-- 
 <details>
@@ -107,33 +105,79 @@ Slack 연동 계정
 --------------------
 <br>
  -->
-<details>
-<summary style="font-size:20px;">2020</summary>
+
+<br>
+
+
+<details open>
+<summary style="font-size:20px;">2023</summary>
 
 |       날짜      | 문제 |  참고  |
 |----------------|------|-------|
-|2020 05 16 20:00|  [스택](https://www.acmicpc.net/problem/10828)<br> [큐](https://www.acmicpc.net/problem/10845)|
-|2020 05 24 14:00|[큐2](https://www.acmicpc.net/problem/18258)|
-|2020 06 04 14:00|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=cpp)|
-|2020 06 11 14:00|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|
-|2020 06 30 15:00|[트리](https://www.acmicpc.net/problem/1068)|
-|2020 07 12 16:00|[길찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892?language=cpp)|
-|2020 07 21 14:00|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842?language=java)|
-|2020 07 31 16:00|[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=cpp) <br>[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165?language=cpp) |
-|2020 08 07 15:00|[Permutation Cycles](https://www.acmicpc.net/problem/10451)|
-|2020 08 14 15:00|[반복수열](https://www.acmicpc.net/problem/2331)|
-|2020 08 20 13:00|[영역 구하기](https://www.acmicpc.net/problem/2583)|
-|2020 08 28 13:00|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|
-|2020 09 05 13:00|[Java vs C++](https://www.acmicpc.net/problem/3613)|
-|2020 09 12 13:00|[탑](https://www.acmicpc.net/problem/2493)|스택/큐|
-|2020 09 19 15:00|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|해시|
-|2020 09 26 15:00|[OBILAZAK](https://www.acmicpc.net/problem/9934)|트리|
-|2020 10 10 16:00|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=cpp)|완전검색|
-|2020 10 31 17:00|[괄호](https://www.acmicpc.net/problem/10422)|동적계획|
-|2020 11 07 17:00|[Cow Art](https://www.acmicpc.net/problem/10026)| DFS|
-|2020 11 14 17:00|[돌다리](https://www.acmicpc.net/problem/12761)| BFS|
-|2020 11 21 16:30|[How Many Islands?](https://www.acmicpc.net/problem/4963)| 그래프|
-|2020 11 28 16:30|[로마 숫자](https://www.acmicpc.net/problem/2608)| 문자열 알고리즘|
+|231111|[거리가 k이하인 트리 노드에서 사과 수확하기](https://www.acmicpc.net/problem/25516)<br>[트리 순회](https://www.acmicpc.net/problem/22856)|Tree|
+|231007|[애너그램 그룹](https://www.acmicpc.net/problem/6566)<br>[스카이라인](https://www.acmicpc.net/problem/1933)|Hash|
+|230826|[회전초밥](https://www.acmicpc.net/problem/28107)<br>[알고리즘 공부](https://www.acmicpc.net/problem/17942)|Queue|
+|230819|[화학식량](https://www.acmicpc.net/problem/2257)<br>[계산 문제](https://www.acmicpc.net/problem/2054)|STACK|
+|230812|[오늘은 OS 숙제 제출일](https://www.acmicpc.net/problem/2730)<br>[목걸이 수열](https://www.acmicpc.net/problem/2070)|STRING|
+|230805|[보이저 1호](https://www.acmicpc.net/problem/3987)<br>[버스 갈아타기](https://www.acmicpc.net/problem/2536)|Graph|
+|230729|[돌리기](https://www.acmicpc.net/problem/1682)<br>[미로에 갇힌 건우](https://www.acmicpc.net/problem/18224)|BFS|
+|230722|[버섯 농장](https://www.acmicpc.net/problem/27737)<br>[최소 트리 분할](https://www.acmicpc.net/problem/27653)|DFS|
+|230715|[망가진 키보드](https://www.acmicpc.net/problem/6503)<br>[창업](https://www.acmicpc.net/problem/16890)|STRING|
+|230709|[트리를 간단하게 색칠하는 최소 비용](https://www.acmicpc.net/problem/25512)<br>[신성 문자](https://www.acmicpc.net/problem/4217)|Graph|
+|230701|[완전 범죄](https://www.acmicpc.net/problem/13700)<br>[하이퍼 토마토](https://www.acmicpc.net/problem/17114)|BFS|
+|230617|[작업](https://www.acmicpc.net/problem/21937)<br>[사자와 토끼](https://www.acmicpc.net/problem/17834)|DFS|
+|230603|[단풍잎 이야기](https://www.acmicpc.net/problem/16457)<br>[망가진 계산기](https://www.acmicpc.net/problem/1443)|BackTracking|
+|230527|[값이 k인 트리 노드의 깊이](https://www.acmicpc.net/problem/25511)<br>[양분](https://www.acmicpc.net/problem/20530)|Tree|
+|230513|[졸업 사진](https://www.acmicpc.net/problem/23349)<br>[부품 대여장](https://www.acmicpc.net/problem/21942)|Hash|
+|230429|[맥주 축제](https://www.acmicpc.net/problem/17503)<br>[비행기 전시](https://www.acmicpc.net/problem/25604)|Queue|
+|230415|[목차 세기](https://www.acmicpc.net/problem/25956)<br>[Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954)|Stack|
+|230408|[IOIOI](https://www.acmicpc.net/problem/5525)<br>[36진수](https://www.acmicpc.net/problem/1036)|String|
+|230325|[현명한 나이트](https://www.acmicpc.net/problem/18404)<br>[조각 움직이기](https://www.acmicpc.net/problem/1035)|Graph|
+|230319|[태권왕](https://www.acmicpc.net/problem/14562)<br>[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|BFS|
+|230211|[구호물자](https://www.acmicpc.net/problem/11581)<br>[다리 만들기 2](https://www.acmicpc.net/problem/17472)|DFS|
+|230128|[점프](https://www.acmicpc.net/problem/1890)<br>[게임 개발](https://www.acmicpc.net/problem/1516)|DP|
+|230107|[친구 팰린드롬](https://www.acmicpc.net/problem/15270)<br>[육각형 우리 속의 개미](https://www.acmicpc.net/problem/17370)|완전탐색|
+
+</details>
+<br>
+<details>
+<summary style="font-size:20px;">2022</summary>
+
+|       날짜      | 문제 |  참고  |
+|----------------|------|-------|
+|2022 01 01 17:00|[차이를 최대로](https://www.acmicpc.net/problem/10819)<br>[사다리 조작](https://www.acmicpc.net/problem/15684)<br>[색종이 붙이기](https://www.acmicpc.net/problem/17136)|완전탐색|
+|2022 01 08 17:00|[피보나치 수의 개수](https://www.acmicpc.net/problem/6571)<br>[정렬](https://www.acmicpc.net/problem/17074)<br>[RGB거리 2](https://www.acmicpc.net/problem/17404)|동적계획|
+|2022 01 15 17:00|[효율적인 해킹](https://www.acmicpc.net/problem/1325)<br>[미친 로봇](https://www.acmicpc.net/problem/1405)<br>[미네랄](https://www.acmicpc.net/problem/2933)|DFS|
+|2022 01 29 17:00|[그림](https://www.acmicpc.net/problem/1926)<br>[게리멘더링](https://www.acmicpc.net/problem/17471)<br>[달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)|BFS|
+|2022 02 05 17:00|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)<br>[두 로봇](https://www.acmicpc.net/problem/15971)<br>[로봇](https://www.acmicpc.net/problem/1726)|그래프|
+|2022 02 19 17:00|[문자열 변환](https://www.acmicpc.net/problem/10453)<br>[문자열 잘라내기](https://www.acmicpc.net/problem/2866)<br>[문자해독](https://www.acmicpc.net/problem/1593)|문자열 알고리즘 심화|
+|2022 03 12 17:00|[모든 스택 수열](https://www.acmicpc.net/problem/23284)<br>[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)<br>[수열 줄이기](https://www.acmicpc.net/problem/3366)|스택|
+|2022 04 02 17:00|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)<br>[가희와 은행](https://www.acmicpc.net/problem/22234)<br>[소수의 곱](https://www.acmicpc.net/problem/2014)|큐|
+|2022 04 16 17:00|[서울의 지하철](https://www.acmicpc.net/problem/16166)<br>[왕위 계승](https://www.acmicpc.net/problem/5021)<br>[새로운 하노이 탑](https://www.acmicpc.net/problem/12906)<br>5분 CS 관련 발표 참고사이트 [Tech Interview](https://gyoogle.dev/blog/)|해시|
+|2022 04 23 17:00|[트리 나라 관광 가이드](https://www.acmicpc.net/problem/15805)<br>[단절점과 단절선](https://www.acmicpc.net/problem/14675)<br>[트리의 높이와 너비](https://www.acmicpc.net/problem/2250)<br>각자 주제의 맞게 5분 CS관련 발표|트리|
+|2022 05 07 17:00|[외판원 순회 2](https://www.acmicpc.net/problem/10971)<br>[테트로미노](https://www.acmicpc.net/problem/14500)<br>[스도미노쿠](https://www.acmicpc.net/problem/4574) |완전검색|
+|2022 05 14 17:00|[기타리스트](https://www.acmicpc.net/problem/1495)<br>[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|동적계획|
+|2022 05 28 17:00|[양 한마리... 양 두마리...](https://www.acmicpc.net/problem/11123)<br>[상어 중학교](https://www.acmicpc.net/problem/21609)|DFS|
+|2022 06 11 17:00|[숨바꼭질](https://www.acmicpc.net/problem/6118)<br>[스타트 택시](https://www.acmicpc.net/problem/19238)|BFS|
+|2022 06 18 13:00|[점프 게임](https://www.acmicpc.net/problem/15558)<br>[로봇 청소기](https://www.acmicpc.net/problem/4991)|그래프|
+|2022 07 02 13:00|[HTML](https://www.acmicpc.net/problem/6581)<br>[디스크 트리](https://www.acmicpc.net/problem/7432)|문자열|
+|2022 07 16 13:00|[점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174)<br>[내 선물을 받아줘](https://www.acmicpc.net/problem/15559)|DFS|
+|2022 07 30 14:00|[윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17129)<br>[배달](https://www.acmicpc.net/problem/1175)|BFS|
+|220820|[컴백홈](https://www.acmicpc.net/problem/1189)<br>[모양 만들기](https://www.acmicpc.net/problem/16932)|Graph|
+|220827|[민식어](https://www.acmicpc.net/problem/1599)<br>[36진수](https://www.acmicpc.net/problem/1036)|String|
+|220903|[이상한 하노이 탑](https://www.acmicpc.net/problem/15500)<br>[연산자 끼워넣기 (3)](https://www.acmicpc.net/problem/15659)|Stack|
+|220917|[선물 교환](https://www.acmicpc.net/problem/1889)<br>[좋은 수](https://www.acmicpc.net/problem/1060)|Queue|
+|221001|[자바의 형변환](https://www.acmicpc.net/problem/25601)<br>[수들의 합 4](https://www.acmicpc.net/problem/2015)|Hash|
+|221015|[너구리 구구](https://www.acmicpc.net/problem/18126)<br>[전단지 돌리기](https://www.acmicpc.net/problem/19542)|Tree|
+|221022|[에너지 모으기](https://www.acmicpc.net/problem/16198)<br>[가르침](https://www.acmicpc.net/problem/1062)|완전탐색|
+|221029|[양치기 꿍](https://www.acmicpc.net/problem/3187)<br>[피리 부는 사나이](https://www.acmicpc.net/problem/16724)|DFS|
+|221105|[출근](https://www.acmicpc.net/problem/13903)<br>[Maaaaaaaaaze](https://www.acmicpc.net/problem/16985)|BFS|
+|221112|[세 친구](https://www.acmicpc.net/problem/17089)<br>[유닛 이동시키기](https://www.acmicpc.net/problem/2194)|Graph|
+|221119|[SMUPC 계산기](https://www.acmicpc.net/problem/21737)<br>[타일 뒤집기 (Easy)](https://www.acmicpc.net/problem/14711)|String|
+|221126|[북극곰은 괄호를 찢어](https://www.acmicpc.net/problem/25918)<br>[현욱은 괄호왕이야!!](https://www.acmicpc.net/problem/15926)|Stack|
+|221203|[아이들과 선물 상자](https://www.acmicpc.net/problem/23757)<br>[컵라면](https://www.acmicpc.net/problem/1781)|Queue|
+|221210|[유전자 조합](https://www.acmicpc.net/problem/25758)<br>[폴더 정리 (small)](https://www.acmicpc.net/problem/22860)|Hash|
+|221231|[접두사](https://www.acmicpc.net/problem/1141)<br>[ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535)|Tree|
 </details>
 <br>
 <details>
@@ -181,72 +225,31 @@ Slack 연동 계정
 </details>
 <br>
 <details>
-<summary style="font-size:20px;">2022</summary>
+<summary style="font-size:20px;">2020</summary>
 
 |       날짜      | 문제 |  참고  |
 |----------------|------|-------|
-|2022 01 01 17:00|[차이를 최대로](https://www.acmicpc.net/problem/10819)<br>[사다리 조작](https://www.acmicpc.net/problem/15684)<br>[색종이 붙이기](https://www.acmicpc.net/problem/17136)|완전탐색|
-|2022 01 08 17:00|[피보나치 수의 개수](https://www.acmicpc.net/problem/6571)<br>[정렬](https://www.acmicpc.net/problem/17074)<br>[RGB거리 2](https://www.acmicpc.net/problem/17404)|동적계획|
-|2022 01 15 17:00|[효율적인 해킹](https://www.acmicpc.net/problem/1325)<br>[미친 로봇](https://www.acmicpc.net/problem/1405)<br>[미네랄](https://www.acmicpc.net/problem/2933)|DFS|
-|2022 01 29 17:00|[그림](https://www.acmicpc.net/problem/1926)<br>[게리멘더링](https://www.acmicpc.net/problem/17471)<br>[달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194)|BFS|
-|2022 02 05 17:00|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)<br>[두 로봇](https://www.acmicpc.net/problem/15971)<br>[로봇](https://www.acmicpc.net/problem/1726)|그래프|
-|2022 02 19 17:00|[문자열 변환](https://www.acmicpc.net/problem/10453)<br>[문자열 잘라내기](https://www.acmicpc.net/problem/2866)<br>[문자해독](https://www.acmicpc.net/problem/1593)|문자열 알고리즘 심화|
-|2022 03 12 17:00|[모든 스택 수열](https://www.acmicpc.net/problem/23284)<br>[스카이라인 쉬운거](https://www.acmicpc.net/problem/1863)<br>[수열 줄이기](https://www.acmicpc.net/problem/3366)|스택|
-|2022 04 02 17:00|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)<br>[가희와 은행](https://www.acmicpc.net/problem/22234)<br>[소수의 곱](https://www.acmicpc.net/problem/2014)|큐|
-|2022 04 16 17:00|[서울의 지하철](https://www.acmicpc.net/problem/16166)<br>[왕위 계승](https://www.acmicpc.net/problem/5021)<br>[새로운 하노이 탑](https://www.acmicpc.net/problem/12906)<br>5분 CS 관련 발표 참고사이트 [Tech Interview](https://gyoogle.dev/blog/)|해시|
-|2022 04 23 17:00|[트리 나라 관광 가이드](https://www.acmicpc.net/problem/15805)<br>[단절점과 단절선](https://www.acmicpc.net/problem/14675)<br>[트리의 높이와 너비](https://www.acmicpc.net/problem/2250)<br>각자 주제의 맞게 5분 CS관련 발표|트리|
-|2022 05 07 17:00|[외판원 순회 2](https://www.acmicpc.net/problem/10971)<br>[테트로미노](https://www.acmicpc.net/problem/14500)<br>[스도미노쿠](https://www.acmicpc.net/problem/4574) |완전검색|
-|2022 05 14 17:00|[기타리스트](https://www.acmicpc.net/problem/1495)<br>[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|동적계획|
-|2022 05 28 17:00|[양 한마리... 양 두마리...](https://www.acmicpc.net/problem/11123)<br>[상어 중학교](https://www.acmicpc.net/problem/21609)|DFS|
-|2022 06 11 17:00|[숨바꼭질](https://www.acmicpc.net/problem/6118)<br>[스타트 택시](https://www.acmicpc.net/problem/19238)|BFS|
-|2022 06 18 13:00|[점프 게임](https://www.acmicpc.net/problem/15558)<br>[로봇 청소기](https://www.acmicpc.net/problem/4991)|그래프|
-|2022 07 02 13:00|[HTML](https://www.acmicpc.net/problem/6581)<br>[디스크 트리](https://www.acmicpc.net/problem/7432)|문자열|
-|2022 07 16 13:00|[점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174)<br>[내 선물을 받아줘](https://www.acmicpc.net/problem/15559)|DFS|
-|2022 07 30 14:00|[윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17129)<br>[배달](https://www.acmicpc.net/problem/1175)|BFS|
-|220820|[컴백홈](https://www.acmicpc.net/problem/1189)<br>[모양 만들기](https://www.acmicpc.net/problem/16932)|Graph|
-|220827|[민식어](https://www.acmicpc.net/problem/1599)<br>[36진수](https://www.acmicpc.net/problem/1036)|String|
-|220903|[이상한 하노이 탑](https://www.acmicpc.net/problem/15500)<br>[연산자 끼워넣기 (3)](https://www.acmicpc.net/problem/15659)|Stack|
-|220917|[선물 교환](https://www.acmicpc.net/problem/1889)<br>[좋은 수](https://www.acmicpc.net/problem/1060)|Queue|
-|221001|[자바의 형변환](https://www.acmicpc.net/problem/25601)<br>[수들의 합 4](https://www.acmicpc.net/problem/2015)|Hash|
-|221015|[너구리 구구](https://www.acmicpc.net/problem/18126)<br>[전단지 돌리기](https://www.acmicpc.net/problem/19542)|Tree|
-|221022|[에너지 모으기](https://www.acmicpc.net/problem/16198)<br>[가르침](https://www.acmicpc.net/problem/1062)|완전탐색|
-|221029|[양치기 꿍](https://www.acmicpc.net/problem/3187)<br>[피리 부는 사나이](https://www.acmicpc.net/problem/16724)|DFS|
-|221105|[출근](https://www.acmicpc.net/problem/13903)<br>[Maaaaaaaaaze](https://www.acmicpc.net/problem/16985)|BFS|
-|221112|[세 친구](https://www.acmicpc.net/problem/17089)<br>[유닛 이동시키기](https://www.acmicpc.net/problem/2194)|Graph|
-|221119|[SMUPC 계산기](https://www.acmicpc.net/problem/21737)<br>[타일 뒤집기 (Easy)](https://www.acmicpc.net/problem/14711)|String|
-|221126|[북극곰은 괄호를 찢어](https://www.acmicpc.net/problem/25918)<br>[현욱은 괄호왕이야!!](https://www.acmicpc.net/problem/15926)|Stack|
-|221203|[아이들과 선물 상자](https://www.acmicpc.net/problem/23757)<br>[컵라면](https://www.acmicpc.net/problem/1781)|Queue|
-|221210|[유전자 조합](https://www.acmicpc.net/problem/25758)<br>[폴더 정리 (small)](https://www.acmicpc.net/problem/22860)|Hash|
-|221231|[접두사](https://www.acmicpc.net/problem/1141)<br>[ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535)|Tree|
-</details>
-<br>
-<details open>
-<summary style="font-size:20px;">2023</summary>
-
-|       날짜      | 문제 |  참고  |
-|----------------|------|-------|
-|230107|[친구 팰린드롬](https://www.acmicpc.net/problem/15270)<br>[육각형 우리 속의 개미](https://www.acmicpc.net/problem/17370)|완전탐색|
-|230128|[점프](https://www.acmicpc.net/problem/1890)<br>[게임 개발](https://www.acmicpc.net/problem/1516)|DP|
-|230211|[구호물자](https://www.acmicpc.net/problem/11581)<br>[다리 만들기 2](https://www.acmicpc.net/problem/17472)|DFS|
-|230319|[태권왕](https://www.acmicpc.net/problem/14562)<br>[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|BFS|
-|230325|[현명한 나이트](https://www.acmicpc.net/problem/18404)<br>[조각 움직이기](https://www.acmicpc.net/problem/1035)|Graph|
-|230408|[IOIOI](https://www.acmicpc.net/problem/5525)<br>[36진수](https://www.acmicpc.net/problem/1036)|String|
-|230415|[목차 세기](https://www.acmicpc.net/problem/25956)<br>[Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954)|Stack|
-|230429|[맥주 축제](https://www.acmicpc.net/problem/17503)<br>[비행기 전시](https://www.acmicpc.net/problem/25604)|Queue|
-|230513|[졸업 사진](https://www.acmicpc.net/problem/23349)<br>[부품 대여장](https://www.acmicpc.net/problem/21942)|Hash|
-|230527|[값이 k인 트리 노드의 깊이](https://www.acmicpc.net/problem/25511)<br>[양분](https://www.acmicpc.net/problem/20530)|Tree|
-|230603|[단풍잎 이야기](https://www.acmicpc.net/problem/16457)<br>[망가진 계산기](https://www.acmicpc.net/problem/1443)|BackTracking|
-|230617|[작업](https://www.acmicpc.net/problem/21937)<br>[사자와 토끼](https://www.acmicpc.net/problem/17834)|DFS|
-|230701|[완전 범죄](https://www.acmicpc.net/problem/13700)<br>[하이퍼 토마토](https://www.acmicpc.net/problem/17114)|BFS|
-|230709|[트리를 간단하게 색칠하는 최소 비용](https://www.acmicpc.net/problem/25512)<br>[신성 문자](https://www.acmicpc.net/problem/4217)|Graph|
-|230715|[망가진 키보드](https://www.acmicpc.net/problem/6503)<br>[창업](https://www.acmicpc.net/problem/16890)|STRING|
-|230722|[버섯 농장](https://www.acmicpc.net/problem/27737)<br>[최소 트리 분할](https://www.acmicpc.net/problem/27653)|DFS|
-|230729|[돌리기](https://www.acmicpc.net/problem/1682)<br>[미로에 갇힌 건우](https://www.acmicpc.net/problem/18224)|BFS|
-|230805|[보이저 1호](https://www.acmicpc.net/problem/3987)<br>[버스 갈아타기](https://www.acmicpc.net/problem/2536)|Graph|
-|230812|[오늘은 OS 숙제 제출일](https://www.acmicpc.net/problem/2730)<br>[목걸이 수열](https://www.acmicpc.net/problem/2070)|STRING|
-|230819|[화학식량](https://www.acmicpc.net/problem/2257)<br>[계산 문제](https://www.acmicpc.net/problem/2054)|STACK|
-|230826|[회전초밥](https://www.acmicpc.net/problem/28107)<br>[알고리즘 공부](https://www.acmicpc.net/problem/17942)|Queue|
-|231007|[애너그램 그룹](https://www.acmicpc.net/problem/6566)<br>[스카이라인](https://www.acmicpc.net/problem/1933)|Hash|
-|231111|[거리가 k이하인 트리 노드에서 사과 수확하기](https://www.acmicpc.net/problem/25516)<br>[트리 순회](https://www.acmicpc.net/problem/22856)|Tree|
+|2020 05 16 20:00|  [스택](https://www.acmicpc.net/problem/10828)<br> [큐](https://www.acmicpc.net/problem/10845)|
+|2020 05 24 14:00|[큐2](https://www.acmicpc.net/problem/18258)|
+|2020 06 04 14:00|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=cpp)|
+|2020 06 11 14:00|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|
+|2020 06 30 15:00|[트리](https://www.acmicpc.net/problem/1068)|
+|2020 07 12 16:00|[길찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892?language=cpp)|
+|2020 07 21 14:00|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842?language=java)|
+|2020 07 31 16:00|[N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895?language=cpp) <br>[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165?language=cpp) |
+|2020 08 07 15:00|[Permutation Cycles](https://www.acmicpc.net/problem/10451)|
+|2020 08 14 15:00|[반복수열](https://www.acmicpc.net/problem/2331)|
+|2020 08 20 13:00|[영역 구하기](https://www.acmicpc.net/problem/2583)|
+|2020 08 28 13:00|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|
+|2020 09 05 13:00|[Java vs C++](https://www.acmicpc.net/problem/3613)|
+|2020 09 12 13:00|[탑](https://www.acmicpc.net/problem/2493)|스택/큐|
+|2020 09 19 15:00|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|해시|
+|2020 09 26 15:00|[OBILAZAK](https://www.acmicpc.net/problem/9934)|트리|
+|2020 10 10 16:00|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=cpp)|완전검색|
+|2020 10 31 17:00|[괄호](https://www.acmicpc.net/problem/10422)|동적계획|
+|2020 11 07 17:00|[Cow Art](https://www.acmicpc.net/problem/10026)| DFS|
+|2020 11 14 17:00|[돌다리](https://www.acmicpc.net/problem/12761)| BFS|
+|2020 11 21 16:30|[How Many Islands?](https://www.acmicpc.net/problem/4963)| 그래프|
+|2020 11 28 16:30|[로마 숫자](https://www.acmicpc.net/problem/2608)| 문자열 알고리즘|
 </details>
 <br>
