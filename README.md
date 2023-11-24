@@ -114,6 +114,7 @@ Slack 연동 계정
 
 |       날짜      | 문제 |  참고  |
 |----------------|------|-------|
+|231202|[그래프 탐색 2](https://www.acmicpc.net/problem/14218)<br>[등수 찾기](https://www.acmicpc.net/problem/17616)|DFS|
 |231125|[극장 좌석](https://www.acmicpc.net/problem/2302)<br>[파이프 옮기기 2](https://www.acmicpc.net/problem/17069)|DP|
 |231118|[도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)<br>[주사위 윷놀이](https://www.acmicpc.net/problem/17825)|Graph|
 |231111|[거리가 k이하인 트리 노드에서 사과 수확하기](https://www.acmicpc.net/problem/25516)<br>[트리 순회](https://www.acmicpc.net/problem/22856)|Tree|
