@@ -114,6 +114,7 @@ Slack 연동 계정
 
 |       날짜      | 문제 |  참고  |
 |----------------|------|-------|
+|231223|[신아를 만나러](https://www.acmicpc.net/problem/6146)<br>[최종 순위](https://www.acmicpc.net/problem/3665)|Graph|
 |231216|[영상처리](https://www.acmicpc.net/problem/21938)<br>[열쇠](https://www.acmicpc.net/problem/9328)|BFS|
 |231202|[그래프 탐색 2](https://www.acmicpc.net/problem/14218)<br>[등수 찾기](https://www.acmicpc.net/problem/17616)|DFS|
 |231125|[극장 좌석](https://www.acmicpc.net/problem/2302)<br>[파이프 옮기기 2](https://www.acmicpc.net/problem/17069)|DP|
