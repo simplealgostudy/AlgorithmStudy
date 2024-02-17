@@ -113,6 +113,7 @@ Slack 연동 계정
 
 |       날짜      | 문제 |  참고  |
 |----------------|------|-------|
+|240224|[수들의 합 6](https://www.acmicpc.net/problem/1821)<br>[나무 위의 구슬](https://www.acmicpc.net/problem/14570)|문제|
 |240217|[상어 키우기](https://www.acmicpc.net/problem/30892)<br>[바벨탑](https://www.acmicpc.net/problem/26655)|Stack|
 |240203|[소수를 분수로](https://www.acmicpc.net/problem/5376)<br>[와일드카드 괄호 문자열](https://www.acmicpc.net/problem/28709)|String|
 
